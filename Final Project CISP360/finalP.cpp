@@ -1,12 +1,3 @@
-/*finalP.cpp
-Alexx DeLacy, CISP 360
-5/16/24
-Final Project - Text-based RPG Adventure
-Proffessor Caleb Fowler
-*/
-
-
-
 #include <iostream>
 #include <ctime>
 #include <fstream>
