@@ -1,7 +1,7 @@
+NO CERTIFICATE/NOR SIGNED; ANTIVIRUS WILL FLAG THIS.
+
 # Final-project
 Test for friends
 
-
-Not certificated; antivrius will flag this.
 
 Source code is available for malware search.
